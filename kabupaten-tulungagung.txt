@@ -6,3 +6,5 @@ YANG KHAS DARI TULUNGAGUNG
   - Tempe
 - Punten Pecel
 - Tahu Lontong
+  - Pake Telor
+  - Gak pake Telor
